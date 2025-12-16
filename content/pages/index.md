@@ -60,13 +60,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Your story deserves to be told
-    text: >+
+    text: >
       <div style="text-align: center">We are passionate about bringing your
-      creative visions to lifeWhether you're an aspiring author, seasoned
+      creative visions to life<br>Whether you're an aspiring author, seasoned
       writer, or someone with a story to share, Rebels Legacy Publishing is here
-      to guide you on your publishing journeyWe believe every voice matters, and
-      every story has the power to inspire, challenge, and transform</div>
-
+      to guide you on your publishing journey<br>We believe every voice matters,
+      and every story has the power to inspire, challenge, and transform</div>
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
