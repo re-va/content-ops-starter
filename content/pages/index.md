@@ -53,7 +53,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Want to publich with us?
+      text: Want to publish with us?
       color: text-dark
       styles:
         self:
