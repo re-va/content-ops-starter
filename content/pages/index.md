@@ -65,9 +65,11 @@ sections:
 
       We are passionate about bringing your creative visions to life
 
+
       Whether you're an aspiring author, seasoned writer, or someone with a
       story to share, Rebels Legacy Publishing is here to guide you on your
       publishing journey
+
 
       We believe every voice matters, and every story has the power to inspire,
       challenge, and transform
