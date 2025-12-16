@@ -60,11 +60,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Your story deserves to be told
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We are passionate about bringing your creative visions to life
+
+
+      Whether you're an aspiring author, seasoned writer, or someone with a
+      story to share, Rebels Legacy Publishing is here to guide you on your
+      publishing journey
+
+
+      We believe every voice matters, and every story has the power to inspire,
+      challenge, and transform
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
