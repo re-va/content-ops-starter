@@ -53,7 +53,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Want to publich with us?
       color: text-dark
       styles:
         self:
