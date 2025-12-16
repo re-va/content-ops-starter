@@ -23,7 +23,7 @@
         {
             "label": "Publications",
             "altText": "Publications",
-            "url": "/blog",
+            "url": "/publications",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
