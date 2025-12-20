@@ -28,7 +28,9 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Hi!
+      label: |-
+        Thank You Papa, Thank
+        You Maa, While I Still Can…
       color: text-primary
       type: Badge
     elementId: ''
