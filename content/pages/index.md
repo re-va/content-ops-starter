@@ -25,7 +25,7 @@ sections:
       ready...</div>
 
     actions:
-      - label: Get started
+      - label: Notify Me About This Book
         altText: ''
         url: /
         showIcon: false
