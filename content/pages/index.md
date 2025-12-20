@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Your story deserves to be told
+    subtitle: ''
     text: >+
       <div style="text-align: center">```
 
