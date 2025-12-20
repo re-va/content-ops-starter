@@ -1,5 +1,5 @@
 ---
-title: 'rebelslegacy '
+title: Rebel’s Legacy
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
