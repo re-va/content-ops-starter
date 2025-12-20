@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to Rebels Legacy Publishing
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
