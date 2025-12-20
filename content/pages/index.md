@@ -59,7 +59,7 @@ sections:
       subtitle:
         fontWeight: 400
   - title:
-      text: Want to publish with us?
+      text: ''
       color: text-dark
       styles:
         self:
