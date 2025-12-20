@@ -1,5 +1,5 @@
 ---
-title: Rebel’s Legacy
+title: ''
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
