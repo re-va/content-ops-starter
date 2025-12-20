@@ -44,9 +44,9 @@ postFeed:
   title: null
   subtitle: null
   showThumbnail: true
-  showExcerpt: false
-  showDate: false
-  showAuthor: false
+  showExcerpt: true
+  showDate: true
+  showAuthor: true
   actions: []
   elementId: null
   variant: three-col-grid
