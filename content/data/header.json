@@ -41,7 +41,7 @@
             "type": "Link",
             "label": "Send email",
             "altText": "Play",
-            "url": "/",
+            "url": "/mailto:info@rebelslegacy.com",
             "showIcon": true,
             "icon": "mail",
             "iconPosition": "right",
