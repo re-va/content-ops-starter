@@ -4,11 +4,7 @@ slug: /
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
-  - title:
-      text: Featured Post
-      color: text-dark
-      type: TitleBlock
-    subtitle: This is the subtitle
+  - subtitle: This is the subtitle
     posts: []
     showThumbnail: true
     showExcerpt: true
