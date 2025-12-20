@@ -22,7 +22,7 @@
         {
             "label": "Rebel’s Legacy",
             "altText": "Publications",
-            "url": "/publications",
+            "url": "/rebelslegacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
