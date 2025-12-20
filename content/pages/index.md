@@ -44,6 +44,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: flex-end
   - title: Divider
     colors: bg-light-fg-dark
     styles:
