@@ -21,7 +21,7 @@ sections:
       A personal book of
       memory, gratitude, unfinished conversations, lessons learnt and more...
     text: |+
-      <div style="text-align: center">######</div>
+      <div style="text-align: center">###### cx C C</div>
 
     actions:
       - label: Get started
