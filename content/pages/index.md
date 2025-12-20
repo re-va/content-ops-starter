@@ -26,7 +26,7 @@ sections:
 
     actions:
       - label: Notify Me About This Book
-        altText: Infirm me
+        altText: Inform me
         url: /
         showIcon: false
         icon: arrowRight
