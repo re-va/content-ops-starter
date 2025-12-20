@@ -36,7 +36,7 @@ sections:
         type: Button
     media:
       url: /images/bk cvr 3d img edited.png
-      altText: Unblock your team boost your time to production preview
+      altText: 'Thank You Papa, Thank You Maa, While I Still Can…'
       elementId: ''
       type: ImageBlock
     badge:
