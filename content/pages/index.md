@@ -103,7 +103,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: 'In post-editing, releasing shortly...'
       color: text-primary
       styles:
         self:
