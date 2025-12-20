@@ -21,7 +21,7 @@
         },
         {
             "altText": "Email",
-            "url": "/info@rebelslegacy.com",
+            "url": "/mailto:info@rebelslegacy.com",
             "icon": "mail",
             "type": "Social"
         }
