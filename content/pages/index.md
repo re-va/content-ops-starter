@@ -20,9 +20,8 @@ sections:
     subtitle: |-
       A personal book of
       memory, gratitude, unfinished conversations, lessons learnt and more...
-    text: >+
-      <div style="text-align: center">###### In post-editing, releasing
-      shortly...</div>
+    text: |+
+      <div style="text-align: center">######</div>
 
     actions:
       - label: Get started
