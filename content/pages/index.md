@@ -20,8 +20,9 @@ sections:
     subtitle: |-
       A personal book of
       memory, gratitude, unfinished conversations, lessons learnt and more...
-    text: |+
-      <div style="text-align: center">###### cx C C</div>
+    text: >+
+      <div style="text-align: center">Be notified when this book is
+      ready...</div>
 
     actions:
       - label: Get started
