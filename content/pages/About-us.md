@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Rebel’s Legacy Publishing
       color: text-dark
       styles:
         self:
