@@ -66,20 +66,36 @@ sections:
       type: TitleBlock
     subtitle: 'A book about and addressed first to parents, only then to the world...'
     text: >+
-      <div style="text-align: center">```
+      <div style="text-align: left">First beginning as a retrospection down the
+      memory lane, this book began as a way to thank his parents by the author,
+      and to preserve some of the best memories, lessons, with gratitude while
+      his parents, the very people birthing and shaping the author, are still
+      here in their physical bodies and life forms
 
-      We are passionate about bringing your creative visions to life
+      It is a book addressed first to his own parents by the author, and only
+      then to the world. Some readers may recognize their own parents in these
+      pages. Others may simply be reminded that time is limited, and words left
+      unspoken do not wait
+
+      In all honesty, this book was written without an audience in mind, only
+      later considered for publication. This is not a self-help book. This book
+      neither preaches anything, nor offers any frameworks, prescriptions, or
+      promised outcomes
+
+      The book will be made available once editing is complete. There is no
+      fixed release date, only a window - between Christmas of 2025 and the new
+      Year's day of 2026
+
+      If you want to be notified when this book is ready for you, do share your
+      email in the "***Stay in Touch***" section
 
 
-      Whether you're an aspiring author, seasoned writer, or someone with a
-      story to share, Rebels Legacy Publishing is here to guide you on your
-      publishing journey
 
 
-      We believe every voice matters, and every story has the power to inspire,
-      challenge, and transform
+      . 
 
-      ```</div>
+
+      </div>
 
     badge:
       label: 'In post-editing, releasing shortly...'
