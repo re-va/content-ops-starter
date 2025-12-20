@@ -12,11 +12,21 @@ sections:
           textAlign: center
     subtitle: 'An author-led, independent publishing imprint...'
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Rebel’s Legacy Publishing was created to hold space for books written
+      slowly, honestly, with intention to publish work that does not fit market
+      cycles or trend logic or any single genre. 
+
+      </br>
+
+
+      Rebel’s Legacy is a new, self-funded effort with no catalogue, no team,
+      and no funding support. For the near future, only self-written works will
+      be published here
+
+
+
+
+      ``
     actions:
       - type: Button
         label: See open positions
