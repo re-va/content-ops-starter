@@ -1,5 +1,5 @@
 ---
-title: Home
+title: The Book
 slug: /
 sections:
   - type: GenericSection
