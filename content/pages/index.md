@@ -20,10 +20,11 @@ sections:
     subtitle: |-
       A personal book of
       memory, gratitude, unfinished conversations, lessons learnt and more...
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      In post-editing, releasing shortly...
+
+
+
     actions:
       - label: Get started
         altText: ''
