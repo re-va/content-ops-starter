@@ -39,9 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: |-
-        Thank You Papa, Thank
-        You Maa, While I Still Can…
+      label: The Book in progress...
       color: text-primary
       type: Badge
     elementId: ''
