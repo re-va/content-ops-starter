@@ -57,6 +57,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+      subtitle:
+        fontWeight: 700
   - title:
       text: Want to publish with us?
       color: text-dark
