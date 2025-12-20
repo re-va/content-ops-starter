@@ -27,7 +27,7 @@ sections:
     actions:
       - label: Notify Me About This Book
         altText: Inform me
-        url: /
+        url: '/mailto:info@rebelslegacy.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
