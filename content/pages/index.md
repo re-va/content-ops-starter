@@ -64,7 +64,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: 'A book about and addressed first to parents, only then to the world...'
     text: >+
       <div style="text-align: center">```
 
